@@ -79,6 +79,7 @@
 		<!-- for travis usage -->
 		<github.global.server>github</github.global.server>
 		<github.global.oauth2Token>${env.GITHUB_OAUTH_TOKEN}</github.global.oauth2Token>
+		<sonar.projectKey>test111</sonar.projectKey>
 	</properties>
 
 	<modules>
