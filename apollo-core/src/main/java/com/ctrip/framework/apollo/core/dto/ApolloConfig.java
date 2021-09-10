@@ -57,6 +57,9 @@ public class ApolloConfig {
   public String getNamespaceName() {
     return namespaceName;
   }
+    public String getNamespaceNameasdfas() {
+    return NamespaceNameasdfas;
+  }
 
   public String getReleaseKey() {
     return releaseKey;
